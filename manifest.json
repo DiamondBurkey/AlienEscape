@@ -1,0 +1,18 @@
+{
+  "name": "Alien Escape",
+  "short_name": "Alien Escape",
+  "description": "Neon endless runner — jump and duck past aliens!",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#03010a",
+  "theme_color": "#03010a",
+  "icons": [
+    {
+      "src": "alien-escape-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
